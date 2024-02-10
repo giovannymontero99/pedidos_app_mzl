@@ -1,0 +1,7 @@
+{
+  "name": "pedidos_app_mzl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
